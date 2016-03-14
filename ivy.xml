@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="1.0"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation=
+                   "http://www.jayasoft.org/misc/ivy/samples/ivy.xsd">
+    <info organisation="nz.eqs" module="metaserve-project-template" revision="0.1" status="DEV" />
+    <dependencies>
+        <!-- bollocks to this, let the IDE handle it
+            <dependency org="nz.eqs" name="metaserve-node-core" rev="0.1" />
+            -->
+</ivy-module>
